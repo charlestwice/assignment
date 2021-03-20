@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,Emmeline,welsh,expensive,hudson yards,10:24,0,0
+2,Katee,russian,expensive,rockefeller center,22:40,3,0
+3,Aguistin,libyan,expensive,garment district,19:27,1,0
+4,Giulio,german,cheap,rockefeller center,4:36,3,0
+5,Pavlov,russian,expensive,little brazil,18:31,3,1
+6,Nettle,kenyan,medium,koreatown,2:40,2,0
+7,Eduard,tahitian,cheap,midtown,2:13,0,0
+8,Jeramey,british,expensive,garment district,2:39,1,0
+9,Melba,russian,expensive,madison square,18:15,1,0
+10,Scarlet,spanish,medium,times square,21:01,0,1
+11,Donnajean,kenyan,expensive,rockefeller center,3:50,2,0
+12,Nonah,spanish,expensive,tudor city,12:27,1,0
+13,Johannes,belgian,cheap,sutton place,1:43,4,0
+14,Leora,turkish,cheap,tenderloin,5:59,0,1
+15,Justin,thai,cheap,little brazil,22:01,5,1
+16,Adrian,canadian,expensive,sutton place,10:25,2,1
+17,Janice,kenyan,expensive,madison square,13:47,1,1
+18,Loralie,egyptian,expensive,midtown east,10:13,1,0
+19,Desiree,cuban,medium,times square,2:12,1,0
+20,Salvador,french,cheap,midtown east,22:15,1,0
+21,Town,cuban,expensive,midtown west,7:12,4,1
+22,Vida,tahitian,cheap,koreatown,1:18,3,0
+23,Stacey,british,cheap,times square,2:55,3,0
+24,Kalindi,peruvian,cheap,sutton place,20:25,3,1
+25,Catharina,russian,expensive,koreatown,15:13,5,1
+26,Prudence,algerian,medium,madison square,23:24,4,0
+27,Stacie,cuban,medium,tenderloin,19:22,2,1
+28,Moise,french,cheap,tudor city,13:52,0,0
+29,Lucille,swedish,medium,herald square,19:35,2,0
+30,Annabal,egyptian,expensive,tudor city,10:23,2,0
+31,Ricki,british,expensive,hell's kitchen,2:19,3,1
+32,Letta,latvian,medium,hell's kitchen,14:46,1,1
+33,Gabbie,cuban,expensive,hell's kitchen,21:30,0,0
+34,Gwenny,portuguese,cheap,turtle bay,4:17,4,0
+35,Mariele,indian,expensive,hell's kitchen,9:05,0,1
+36,Patten,latvian,medium,tenderloin,3:27,4,0
+37,Ardelis,swedish,cheap,garment district,18:31,0,1
+38,Noe,japanese,medium,murray hill,15:07,1,0
+39,Lyndel,irish,medium,theater district,23:08,1,1
+40,Pegeen,mexican,medium,little brazil,16:11,3,0
+41,Nevin,brazillian,medium,murray hill,8:16,0,1
+42,Mario,italian,expensive,midtown east,16:06,0,0
+43,Sibella,scottish,medium,tenderloin,23:44,4,1
+44,Ogden,spanish,cheap,midtown west,5:36,5,1
+45,Keith,french,medium,garment district,8:24,3,0
+46,Leicester,spanish,medium,tudor city,1:34,1,1
+47,Jasmina,egyptian,cheap,diamond district,6:48,3,0
+48,Joe,canadian,cheap,koreatown,14:31,3,0
+49,Marvin,nigerian,medium,garment district,14:30,4,0
+50,Hilliard,japanese,expensive,tudor city,21:23,0,0
+51,Jaime,welsh,medium,diamond district,11:25,4,0
+52,Faulkner,savaldorian,cheap,diamond district,4:26,2,1
+53,Yurik,algerian,expensive,theater district,11:20,1,1
+54,Sheff,portuguese,expensive,times square,21:48,1,1
+55,Theresita,libyan,medium,tudor city,10:01,2,0
+56,Astrix,turkish,cheap,theater district,4:28,2,0
+57,Delmer,welsh,medium,little brazil,16:35,5,1
+58,Bondon,tahitian,medium,hell's kitchen,17:11,3,1
+59,Osbert,french,cheap,theater district,22:33,3,0
+60,Giles,italian,cheap,tudor city,21:55,1,1
+61,Augustine,libyan,expensive,rockefeller center,10:09,5,1
+62,Alvie,egyptian,medium,koreatown,17:05,5,1
+63,Borden,haitian,expensive,times square,16:24,3,1
+64,Emile,kenyan,medium,theater district,9:23,1,0
+65,Shina,savaldorian,medium,diamond district,15:48,0,0
+66,West,american,cheap,theater district,10:58,1,1
+67,Heda,indian,medium,theater district,11:38,4,0
+68,Tremaine,scottish,medium,diamond district,9:29,5,0
+69,Dwight,japanese,cheap,hell's kitchen,1:42,4,0
+70,Arluene,greek,cheap,midtown west,3:36,4,0
+71,Eran,canadian,cheap,midtown west,22:28,5,1
+72,Wallie,brazillian,cheap,theater district,6:46,3,0
+73,Jobey,korean,expensive,theater district,22:46,4,0
+74,Hendrika,thai,medium,midtown,19:05,5,0
+75,Whitney,thai,cheap,turtle bay,12:33,2,1
+76,Nerte,brazillian,medium,hudson yards,9:00,3,1
+77,Ted,algerian,expensive,sutton place,3:58,4,0
+78,Lanny,scottish,expensive,hell's kitchen,16:34,2,0
+79,Molly,jewish,cheap,herald square,16:05,5,0
+80,Bealle,chinese,expensive,murray hill,14:51,1,0
+81,Guendolen,savaldorian,expensive,murray hill,23:10,3,1
+82,Dallon,jewish,expensive,sutton place,17:32,0,0
+83,Chance,japanese,expensive,columbus circle,6:27,5,0
+84,Debra,thai,medium,diamond district,19:16,3,0
+85,Artemus,brazillian,expensive,times square,15:43,1,0
+86,Adlai,tahitian,cheap,garment district,7:17,1,0
+87,Cinda,jewish,cheap,tenderloin,0:54,4,1
+88,Luella,egyptian,medium,columbus circle,11:35,3,0
+89,Elnore,haitian,expensive,theater district,4:08,3,1
+90,Danie,korean,medium,madison square,11:58,5,1
+91,Constantine,turkish,cheap,midtown,6:49,2,0
+92,Moises,spanish,expensive,koreatown,6:08,5,0
+93,Agna,algerian,cheap,turtle bay,17:21,2,1
+94,Diane-marie,canadian,expensive,columbus circle,14:08,5,1
+95,Agretha,turkish,medium,sutton place,22:44,1,1
+96,Hersh,tahitian,cheap,diamond district,12:11,2,1
+97,Vicky,irish,expensive,tudor city,20:30,1,0
+98,Lucius,turkish,cheap,little brazil,19:59,3,0
+99,Delly,korean,medium,times square,22:23,0,0
+100,Gabrielle,cuban,cheap,sutton place,22:41,0,0
+101,Merralee,libyan,medium,hell's kitchen,18:58,1,0
+102,Brooks,scottish,medium,tudor city,19:39,1,1
+103,Inna,greek,cheap,hell's kitchen,20:48,0,1
+104,Gaspar,irish,cheap,hell's kitchen,2:36,4,0
+105,Jobina,italian,medium,midtown east,8:15,2,0
+106,Alair,spanish,medium,midtown west,0:47,2,1
+107,Eldredge,german,cheap,little brazil,16:25,1,1
+108,Paolina,belgian,cheap,hudson yards,12:12,2,0
+109,Joli,nigerian,medium,murray hill,9:53,5,1
+110,Joyann,belgian,cheap,turtle bay,20:46,5,1
+111,Delmore,welsh,cheap,tudor city,22:14,0,0
+112,Dudley,french,cheap,turtle bay,18:07,0,1
+113,Billi,nigerian,cheap,little brazil,4:58,4,0
+114,Fancy,spanish,medium,hell's kitchen,0:09,1,0
+115,Kiah,cajun,medium,tudor city,18:54,3,0
+116,Georgette,british,expensive,times square,11:31,3,0
+117,Mallorie,japanese,medium,midtown west,16:50,4,1
+118,Nickolaus,jewish,medium,garment district,21:13,1,1
+119,Seamus,chinese,medium,turtle bay,21:57,2,1
+120,Nolana,spanish,cheap,theater district,0:21,2,1
+121,Basile,japanese,medium,madison square,5:54,5,1
+122,Farrel,japanese,medium,rockefeller center,5:41,3,1
+123,Randal,german,expensive,tenderloin,1:31,1,0
+124,Kalina,savaldorian,cheap,midtown,4:37,3,1
+125,Chase,latvian,medium,sutton place,14:14,4,1
+126,Halley,indian,cheap,columbus circle,1:29,1,0
+127,Bertie,polish,expensive,diamond district,19:52,5,1
+128,Lainey,indian,cheap,midtown,22:22,0,0
+129,Kendricks,spanish,cheap,diamond district,22:27,3,1
+130,De witt,chinese,medium,theater district,12:20,4,1
+131,Donica,tibetan,expensive,rockefeller center,12:41,2,0
+132,Bran,mormon,expensive,madison square,1:05,1,0
+133,Nappy,polish,cheap,tudor city,18:45,4,0
+134,Goraud,portuguese,cheap,murray hill,2:17,3,1
+135,Birch,italian,cheap,midtown west,0:11,5,1
+136,Peder,italian,medium,rockefeller center,10:46,5,1
+137,Corabel,cuban,cheap,midtown west,13:50,2,1
+138,Pammie,nigerian,expensive,little brazil,5:19,5,1
+139,Mary,french,medium,turtle bay,2:13,2,1
+140,Francesca,irish,expensive,midtown east,14:10,2,0
+141,Hendrick,kenyan,medium,midtown east,2:50,2,0
+142,Stella,savaldorian,expensive,midtown west,3:48,3,1
+143,Nicolette,french,expensive,tenderloin,12:03,5,0
+144,Hurley,thai,cheap,columbus circle,9:34,4,1
+145,Jerrold,welsh,expensive,midtown east,3:37,1,0
+146,Donella,british,cheap,koreatown,8:13,0,0
+147,Sibbie,peruvian,medium,garment district,4:11,0,1
+148,Brittney,hawaiian,expensive,midtown east,22:17,3,1
+149,Nina,jewish,expensive,hudson yards,5:22,0,1
+150,Bettine,chinese,expensive,little brazil,18:15,0,0
+151,Etan,mormon,cheap,theater district,17:49,5,0
+152,Marijo,italian,expensive,murray hill,22:28,5,1
+153,Layton,libyan,expensive,tenderloin,22:48,4,1
+154,Wadsworth,tibetan,medium,columbus circle,9:10,0,1
+155,Miriam,latvian,medium,columbus circle,22:56,0,0
+156,Aura,hawaiian,expensive,little brazil,10:01,2,0
+157,Kenton,jewish,expensive,midtown east,9:19,4,1
+158,Waldon,russian,medium,columbus circle,4:42,0,0
+159,Winthrop,brazillian,expensive,diamond district,11:52,1,1
+160,Bette-ann,nigerian,expensive,hudson yards,17:32,3,0
+161,Euell,kenyan,cheap,midtown west,4:08,4,1
+162,Sayer,tibetan,medium,little brazil,13:47,0,1
+163,Bernardina,algerian,expensive,tudor city,2:41,1,1
+164,Shirlee,canadian,expensive,theater district,14:45,2,0
+165,Osborn,jewish,medium,koreatown,0:42,2,1
+166,West,nigerian,medium,little brazil,0:14,3,0
+167,Latisha,spanish,cheap,midtown,10:42,3,1
+168,Annamarie,japanese,cheap,midtown west,15:32,3,0
+169,Devlin,french,expensive,theater district,1:43,5,0
+170,Rosene,jewish,expensive,rockefeller center,8:05,4,1
+171,Antonin,swedish,expensive,hell's kitchen,12:56,5,1
+172,Leanora,american,medium,sutton place,16:24,0,0
+173,Ancell,russian,expensive,rockefeller center,4:56,3,1
+174,Olympia,german,medium,diamond district,11:58,1,0
+175,Brigitte,japanese,medium,theater district,10:46,4,0
+176,Sydelle,thai,expensive,times square,9:19,4,0
+177,Rowney,algerian,expensive,rockefeller center,7:04,3,1
+178,Lula,tibetan,cheap,little brazil,20:59,3,0
+179,Meridith,swedish,cheap,midtown,7:52,2,1
+180,Elvin,tahitian,expensive,turtle bay,19:25,5,1
+181,Kirby,welsh,medium,little brazil,3:37,0,1
+182,Demetria,swedish,cheap,hell's kitchen,7:40,5,1
+183,Teresa,jewish,medium,tenderloin,20:37,4,1
+184,Suellen,algerian,expensive,midtown,11:13,2,1
+185,Reuben,tahitian,medium,madison square,14:06,3,0
+186,Lammond,chinese,medium,times square,6:26,4,1
+187,Micah,polish,expensive,diamond district,20:51,2,1
+188,Lavinia,japanese,cheap,murray hill,22:38,4,0
+189,Carl,belgian,medium,sutton place,10:29,4,0
+190,Fabian,swedish,expensive,sutton place,22:36,2,0
+191,Cami,canadian,expensive,koreatown,8:21,2,0
+192,Jermayne,cuban,medium,diamond district,17:17,3,1
+193,Dolley,french,cheap,diamond district,4:42,5,1
+194,Ciel,japanese,expensive,hudson yards,18:21,1,1
+195,Elane,portuguese,medium,sutton place,23:50,4,0
+196,Kyla,haitian,medium,sutton place,18:44,3,0
+197,Shane,german,cheap,turtle bay,2:43,3,0
+198,Margo,scottish,medium,times square,17:23,0,1
+199,Noel,belgian,medium,hell's kitchen,15:11,5,1
+200,Livvy,tahitian,expensive,madison square,1:36,5,0
+201,Breena,libyan,cheap,midtown east,21:16,4,0
+202,Olivette,hawaiian,expensive,turtle bay,16:16,5,0
+203,Dominga,scottish,medium,madison square,3:41,1,1
+204,Esme,mexican,cheap,times square,15:57,4,0
+205,Filide,tahitian,expensive,hell's kitchen,16:11,5,1
+206,Lindie,korean,expensive,sutton place,16:28,3,0
+207,Buiron,japanese,cheap,sutton place,12:44,0,1
+208,Elisabetta,canadian,cheap,midtown,7:37,4,0
+209,Sonny,peruvian,expensive,hell's kitchen,21:23,0,1
+210,Lavena,greek,medium,tenderloin,8:05,4,0
+211,Josey,algerian,cheap,little brazil,10:06,1,0
+212,Garrick,haitian,cheap,sutton place,10:16,5,0
+213,Jasmina,greek,expensive,little brazil,8:00,1,1
+214,Cecilia,american,cheap,sutton place,5:21,3,1
+215,Sheela,chinese,expensive,koreatown,9:00,5,1
+216,Estel,tibetan,medium,little brazil,9:57,3,1
+217,Malory,nigerian,cheap,turtle bay,7:54,5,0
+218,Baird,portuguese,cheap,midtown east,1:59,5,1
+219,Jory,haitian,cheap,theater district,6:18,0,0
+220,Meghann,scottish,expensive,herald square,9:00,4,0
+221,Fredrick,indian,expensive,hell's kitchen,11:03,2,1
+222,Symon,japanese,expensive,hell's kitchen,19:30,3,1
+223,Kathlin,cuban,expensive,madison square,2:49,3,1
+224,Adrian,haitian,medium,koreatown,1:07,3,1
+225,Matthias,mormon,cheap,midtown east,5:27,3,1
+226,Heath,tibetan,expensive,theater district,16:33,2,1
+227,Yorgos,polish,cheap,sutton place,7:56,2,1
+228,Maryl,italian,cheap,theater district,6:30,5,1
+229,Alyss,welsh,expensive,diamond district,8:13,3,0
+230,Wenonah,portuguese,expensive,sutton place,15:42,2,0
+231,Guillemette,british,cheap,diamond district,4:00,1,0
+232,Marchall,hawaiian,expensive,midtown,22:56,5,0
+233,Lambert,peruvian,expensive,hell's kitchen,19:04,5,1
+234,Griswold,korean,cheap,theater district,19:28,1,1
+235,Kristopher,chinese,medium,little brazil,5:49,2,0
+236,Ella,hawaiian,medium,murray hill,9:10,4,1
+237,Dyan,savaldorian,expensive,theater district,3:50,5,1
+238,Kalindi,chinese,cheap,midtown east,2:03,3,0
+239,Raphaela,russian,medium,hell's kitchen,23:23,5,0
+240,Ethan,algerian,medium,theater district,22:18,2,1
+241,Alonzo,welsh,expensive,midtown,15:01,4,0
+242,Ilka,french,expensive,hell's kitchen,3:06,3,0
+243,Huey,peruvian,medium,hell's kitchen,16:20,5,0
+244,Mareah,scottish,cheap,tenderloin,11:18,3,0
+245,Giuditta,brazillian,cheap,garment district,18:42,1,1
+246,Tiebout,japanese,expensive,diamond district,21:42,3,1
+247,Reese,brazillian,cheap,times square,3:22,1,1
+248,Gerry,algerian,expensive,sutton place,20:10,3,1
+249,Joyous,jewish,medium,midtown east,9:13,2,0
+250,Chelsea,italian,cheap,murray hill,17:51,3,1
+251,Tabby,russian,cheap,midtown west,8:51,3,0
+252,Jordanna,german,expensive,garment district,5:40,2,1
+253,Zebulen,peruvian,medium,hell's kitchen,0:20,2,1
+254,Gauthier,tahitian,medium,diamond district,8:37,1,0
+255,Lenee,polish,expensive,diamond district,14:38,2,0
+256,Baudoin,latvian,cheap,madison square,14:35,5,1
+257,Nata,nigerian,expensive,little brazil,0:27,5,1
+258,Row,cajun,medium,herald square,7:37,3,1
+259,Audre,british,medium,sutton place,16:24,4,0
+260,Linea,chinese,expensive,madison square,4:14,2,0
+261,Artur,cajun,cheap,columbus circle,11:39,4,0
+262,Fraze,thai,medium,tudor city,1:02,1,0
+263,Pascale,turkish,expensive,garment district,12:31,0,1
+264,Alene,belgian,cheap,hudson yards,23:43,0,1
+265,Izzy,belgian,cheap,turtle bay,3:19,0,0
+266,Harold,mexican,medium,midtown east,20:05,5,0
+267,Rosene,cuban,medium,tenderloin,18:23,2,0
+268,Madelon,indian,cheap,hell's kitchen,1:30,5,1
+269,Toni,brazillian,medium,theater district,3:36,4,1
+270,Ali,mexican,medium,theater district,10:27,4,0
+271,Honor,kenyan,cheap,columbus circle,7:44,3,0
+272,Roxy,jewish,cheap,midtown,0:46,2,0
+273,Adrienne,turkish,medium,herald square,0:33,2,1
+274,Kinny,nigerian,medium,turtle bay,1:12,3,1
+275,Magdalena,italian,cheap,tudor city,11:10,5,0
+276,Jsandye,libyan,cheap,tenderloin,15:25,5,0
+277,Derwin,thai,expensive,diamond district,7:57,3,1
+278,Jdavie,greek,medium,diamond district,2:36,5,1
+279,Lucille,irish,expensive,times square,15:52,3,0
+280,Marlane,irish,cheap,tenderloin,6:15,2,0
+281,Olia,brazillian,cheap,tudor city,19:22,4,1
+282,Dyann,thai,expensive,midtown,10:12,5,0
+283,Ollie,scottish,medium,theater district,14:52,4,0
+284,Urson,savaldorian,medium,garment district,17:12,0,1
+285,Rachelle,kenyan,expensive,koreatown,11:55,5,0
+286,Rex,canadian,cheap,theater district,14:18,4,0
+287,Diarmid,latvian,medium,rockefeller center,13:52,5,1
+288,Aurilia,tibetan,expensive,koreatown,4:13,5,1
+289,Kerri,american,cheap,midtown east,5:54,4,0
+290,Nadean,algerian,expensive,garment district,12:17,3,1
+291,Monroe,indian,expensive,diamond district,9:23,5,1
+292,Janean,mexican,expensive,hell's kitchen,20:44,2,0
+293,Domenic,scottish,medium,little brazil,19:01,2,0
+294,Gabriel,indian,medium,tenderloin,17:37,5,1
+295,Pippa,tibetan,cheap,sutton place,22:36,0,0
+296,Marillin,korean,medium,midtown east,7:03,1,0
+297,Karlan,brazillian,cheap,madison square,18:40,1,1
+298,Saunderson,mormon,medium,tudor city,4:09,4,0
+299,Wilburt,british,expensive,herald square,16:44,5,0
+300,Marcel,japanese,cheap,theater district,11:49,4,0
+301,Nicoli,korean,cheap,midtown west,19:47,3,1
+302,Xerxes,scottish,medium,rockefeller center,9:23,2,1
+303,Al,korean,medium,little brazil,23:24,4,0
+304,Jess,canadian,expensive,herald square,3:21,2,0
+305,Patrick,belgian,expensive,turtle bay,8:14,0,0
+306,Ellette,japanese,expensive,hell's kitchen,3:03,5,0
+307,Paolina,mormon,cheap,columbus circle,3:39,1,1
+308,Bibi,portuguese,cheap,rockefeller center,15:24,3,0
+309,Arlene,tahitian,cheap,hudson yards,0:48,5,0
+310,Merrel,italian,cheap,theater district,23:23,5,1
+311,Padriac,greek,expensive,garment district,3:00,2,1
+312,Marrilee,tahitian,expensive,sutton place,2:12,3,1
+313,Merridie,haitian,cheap,times square,21:15,4,0
+314,Vickie,tahitian,medium,columbus circle,21:11,0,0
+315,Anna-diane,turkish,expensive,turtle bay,21:48,4,0
+316,Carlee,haitian,expensive,garment district,5:06,2,0
+317,Blondie,welsh,cheap,tenderloin,6:40,1,0
+318,Nellie,hawaiian,medium,rockefeller center,17:27,2,1
+319,Stacee,belgian,medium,tudor city,17:52,2,1
+320,Tammy,french,medium,sutton place,11:25,3,1
+321,Michaella,polish,medium,theater district,17:21,1,1
+322,Adore,scottish,medium,murray hill,10:36,1,0
+323,Raynor,algerian,medium,columbus circle,11:17,0,1
+324,Violette,japanese,cheap,midtown,0:24,1,1
+325,Viola,hawaiian,cheap,times square,12:13,3,1
+326,Rad,algerian,medium,tudor city,21:02,2,1
+327,Glenn,turkish,medium,columbus circle,0:32,3,0
+328,Nadia,algerian,medium,tudor city,19:45,1,0
+329,Karlan,greek,cheap,tenderloin,19:47,5,0
+330,Durant,french,expensive,tudor city,14:31,1,1
+331,Jody,egyptian,expensive,midtown,2:59,3,1
+332,Tory,irish,cheap,midtown west,6:42,5,1
+333,Christy,japanese,medium,hudson yards,16:54,1,1
+334,Dawna,mexican,expensive,midtown east,6:27,0,1
+335,Kassandra,portuguese,cheap,theater district,2:45,1,1
+336,Leonard,british,expensive,little brazil,8:50,5,1
+337,Lanny,russian,cheap,hudson yards,15:27,1,1
+338,Merill,peruvian,cheap,tudor city,14:13,0,1
+339,Carolin,korean,expensive,rockefeller center,6:00,4,1
+340,Jaquith,jewish,cheap,garment district,20:45,5,1
+341,Bartel,thai,medium,midtown east,12:06,5,0
+342,Nicolis,chinese,expensive,times square,2:24,2,1
+343,Carlynn,korean,cheap,columbus circle,20:21,4,1
+344,Timothee,irish,expensive,little brazil,23:04,0,1
+345,Katlin,turkish,cheap,sutton place,8:54,2,0
+346,Willabella,polish,medium,murray hill,17:06,4,0
+347,Fayre,french,expensive,herald square,10:01,3,0
+348,Alvin,scottish,medium,sutton place,12:43,4,1
+349,Dasya,turkish,cheap,madison square,6:24,1,0
+350,Alexia,algerian,cheap,columbus circle,1:46,2,0
+351,Christyna,mormon,medium,turtle bay,8:27,3,0
+352,Christophorus,thai,expensive,diamond district,8:34,1,0
+353,Johnette,algerian,medium,murray hill,5:59,1,1
+354,Kingsley,french,medium,diamond district,4:03,2,1
+355,Michael,kenyan,medium,turtle bay,4:30,4,0
+356,Anthony,kenyan,medium,times square,14:33,4,0
+357,Cati,mormon,cheap,murray hill,3:13,2,0
+358,Ardisj,thai,expensive,garment district,18:12,3,1
+359,Joly,japanese,expensive,hell's kitchen,20:33,0,1
+360,Fayth,welsh,expensive,midtown,21:25,1,0
+361,Earl,indian,cheap,madison square,15:28,3,1
+362,Everard,cajun,cheap,tenderloin,22:09,2,0
+363,Brigitte,chinese,cheap,hell's kitchen,9:10,4,0
+364,Adolf,french,expensive,hudson yards,5:23,4,1
+365,Yanaton,nigerian,expensive,turtle bay,4:51,5,1
+366,Dniren,swedish,cheap,midtown east,16:37,1,1
+367,Stoddard,belgian,medium,midtown east,0:54,3,0
+368,Brantley,italian,expensive,theater district,20:33,3,0
+369,Aurelea,nigerian,cheap,herald square,12:08,4,0
+370,Reeba,mormon,medium,columbus circle,21:36,3,1
+371,Cassandry,cuban,cheap,garment district,18:20,1,0
+372,Kacey,belgian,cheap,hell's kitchen,2:29,4,1
+373,Dulcine,french,medium,times square,15:03,1,1
+374,Priscilla,portuguese,cheap,hudson yards,15:44,4,0
+375,Wynn,algerian,cheap,herald square,19:08,5,0
+376,Cherrita,belgian,cheap,midtown west,11:28,5,1
+377,Lisetta,mormon,cheap,midtown east,8:56,2,0
+378,Roanna,greek,cheap,tenderloin,21:38,4,1
+379,Lexie,turkish,medium,little brazil,0:59,3,0
+380,Ara,thai,expensive,madison square,12:05,2,1
+381,Cinda,canadian,expensive,tudor city,21:05,5,0
+382,Drew,chinese,medium,hell's kitchen,0:33,2,0
+383,Hanni,french,cheap,madison square,23:23,1,0
+384,Remington,german,medium,hudson yards,2:21,5,0
+385,Kelly,nigerian,cheap,sutton place,10:29,4,1
+386,Hannis,mormon,medium,midtown east,0:11,5,1
+387,Rochell,chinese,expensive,garment district,9:52,4,1
+388,Dusty,swedish,medium,theater district,9:43,1,0
+389,Vin,swedish,medium,rockefeller center,18:58,4,0
+390,L;urette,latvian,expensive,koreatown,5:45,3,1
+391,Josee,russian,cheap,tudor city,15:22,0,0
+392,Elberta,korean,expensive,koreatown,21:21,4,0
+393,Osborne,cuban,expensive,theater district,7:57,5,0
+394,Cynde,greek,medium,little brazil,18:22,3,1
+395,Janela,scottish,expensive,hell's kitchen,6:23,4,0
+396,Fidelia,kenyan,expensive,koreatown,13:37,3,1
+397,Louis,algerian,expensive,sutton place,18:15,5,1
+398,Fawnia,latvian,medium,murray hill,17:53,1,1
+399,Shirley,russian,cheap,theater district,15:17,2,0
+400,Vassily,welsh,cheap,hell's kitchen,13:23,3,0
+401,Royce,brazillian,expensive,tenderloin,15:41,3,1
+402,Caren,peruvian,expensive,tudor city,22:50,0,1
+403,Karalee,cuban,cheap,hudson yards,7:55,4,1
+404,Ursuline,japanese,medium,diamond district,5:38,5,1
+405,Carlo,peruvian,medium,diamond district,23:57,4,1
+406,Karola,canadian,expensive,midtown west,13:39,1,1
+407,Karrie,american,cheap,herald square,18:03,4,0
+408,Marthena,algerian,cheap,theater district,4:19,0,0
+409,Archibaldo,american,expensive,midtown east,15:04,2,1
+410,Wrennie,japanese,medium,little brazil,19:29,3,1
+411,Catlee,swedish,cheap,times square,8:37,0,1
+412,Kayle,chinese,expensive,hudson yards,8:57,2,1
+413,Felice,nigerian,cheap,midtown west,12:48,2,1
+414,Aile,welsh,expensive,tudor city,21:46,4,1
+415,Flo,belgian,cheap,theater district,20:40,2,1
+416,Frederica,welsh,expensive,rockefeller center,12:07,2,1
+417,Binni,kenyan,cheap,herald square,11:26,5,0
+418,Jada,greek,expensive,murray hill,5:07,1,1
+419,Sherry,irish,expensive,little brazil,15:03,0,0
+420,Caren,portuguese,cheap,tudor city,8:21,2,0
+421,Jilly,cuban,cheap,murray hill,12:13,2,1
+422,Lauren,nigerian,expensive,turtle bay,14:17,4,0
+423,Emlyn,thai,medium,midtown west,18:40,1,1
+424,Aleksandr,canadian,medium,rockefeller center,6:30,0,1
+425,Pansie,hawaiian,medium,turtle bay,16:44,5,0
+426,Myrah,japanese,cheap,madison square,13:33,4,1
+427,Leanora,haitian,expensive,tenderloin,7:05,2,1
+428,Gian,libyan,expensive,theater district,17:02,3,1
+429,Drake,chinese,expensive,tenderloin,0:53,4,0
+430,Adda,tibetan,medium,tudor city,14:16,1,0
+431,Constanta,kenyan,expensive,theater district,22:04,0,0
+432,Judy,scottish,expensive,theater district,10:45,0,0
+433,Rora,korean,medium,midtown west,6:47,1,0
+434,Allis,latvian,medium,midtown east,22:17,2,1
+435,Dinny,latvian,cheap,garment district,23:04,2,0
+436,Rowe,brazillian,medium,rockefeller center,8:49,2,0
+437,Clayborn,turkish,cheap,rockefeller center,11:40,3,1
+438,Tab,portuguese,medium,tenderloin,23:56,2,1
+439,Phedra,chinese,medium,midtown east,20:26,2,0
+440,Jillene,haitian,medium,times square,2:34,1,1
+441,Dacy,belgian,medium,turtle bay,2:34,5,1
+442,Vinni,scottish,expensive,theater district,3:32,2,1
+443,Moses,polish,medium,hell's kitchen,3:36,3,0
+444,Torey,kenyan,cheap,columbus circle,11:23,4,1
+445,Nanete,egyptian,medium,midtown west,7:42,3,1
+446,Carrol,mexican,cheap,garment district,13:25,2,0
+447,Winston,turkish,expensive,sutton place,15:05,0,1
+448,Daron,scottish,expensive,garment district,4:35,5,1
+449,Elinore,irish,expensive,midtown,10:48,3,0
+450,Avictor,egyptian,cheap,columbus circle,18:19,3,1
+451,Terry,canadian,cheap,hudson yards,19:49,4,0
+452,Sherwin,french,medium,midtown,22:17,1,1
+453,Danila,russian,medium,koreatown,18:36,0,0
+454,Anna,turkish,cheap,theater district,19:59,3,1
+455,Wallas,korean,cheap,madison square,3:43,2,1
+456,Cele,latvian,medium,midtown east,12:18,3,0
+457,Lorette,jewish,cheap,tudor city,1:15,4,0
+458,Gabrila,cajun,cheap,rockefeller center,21:11,5,0
+459,Serene,canadian,expensive,sutton place,6:56,1,0
+460,Berty,latvian,medium,rockefeller center,12:31,0,1
+461,Aristotle,welsh,cheap,midtown west,8:56,5,1
+462,Evelin,nigerian,cheap,rockefeller center,22:35,2,0
+463,Cristen,haitian,cheap,little brazil,10:27,1,1
+464,Zulema,russian,cheap,sutton place,9:53,4,0
+465,Alf,korean,cheap,herald square,19:17,3,1
+466,Hephzibah,british,cheap,midtown east,2:29,0,0
+467,Everard,greek,cheap,theater district,13:57,5,1
+468,Cymbre,spanish,expensive,herald square,9:50,3,1
+469,Happy,british,cheap,hudson yards,3:55,2,1
+470,Osmond,indian,medium,columbus circle,18:19,1,0
+471,Jami,italian,expensive,midtown,9:36,3,0
+472,Madeline,german,expensive,theater district,16:18,5,0
+473,Mal,tahitian,expensive,koreatown,7:34,2,0
+474,Dodie,russian,expensive,midtown,10:08,5,1
+475,Ced,tahitian,cheap,murray hill,17:18,5,1
+476,Orsa,welsh,medium,herald square,14:42,1,1
+477,Isak,indian,expensive,midtown west,18:13,5,1
+478,Aimee,cuban,cheap,midtown east,18:02,5,1
+479,Alina,portuguese,medium,sutton place,0:46,0,1
+480,Ari,french,cheap,herald square,11:41,2,1
+481,Rebe,savaldorian,expensive,theater district,18:56,2,1
+482,Nickie,mexican,medium,theater district,18:30,3,1
+483,Sheelah,chinese,expensive,diamond district,13:02,4,1
+484,Elsa,french,expensive,sutton place,5:23,4,1
+485,Velma,polish,medium,rockefeller center,11:03,0,0
+486,Conway,cajun,medium,columbus circle,9:20,2,1
+487,Raddy,jewish,expensive,tenderloin,6:17,0,1
+488,Valida,brazillian,medium,midtown east,20:26,5,1
+489,Penrod,savaldorian,medium,theater district,17:39,0,1
+490,Albertine,cajun,expensive,tenderloin,4:43,3,1
+491,Nariko,jewish,medium,little brazil,21:13,5,1
+492,Nike,haitian,cheap,madison square,22:48,3,1
+493,Marigold,belgian,cheap,little brazil,2:49,3,0
+494,Sianna,brazillian,cheap,hudson yards,6:23,3,0
+495,Brooks,irish,expensive,sutton place,0:03,1,0
+496,Tilly,tahitian,cheap,sutton place,20:26,4,0
+497,Craggy,polish,cheap,turtle bay,14:32,3,0
+498,Arlee,welsh,medium,madison square,2:00,5,0
+499,Ivor,portuguese,medium,koreatown,3:33,4,1
+500,Nanete,tibetan,cheap,sutton place,1:21,3,0
+501,Forrester,algerian,medium,little brazil,14:12,1,1
+502,Knox,russian,medium,herald square,6:02,4,1
+503,Leigha,savaldorian,medium,theater district,7:10,3,1
+504,Sharity,scottish,cheap,madison square,17:20,5,1
+505,Inger,haitian,medium,theater district,5:37,2,1
+506,Donnamarie,mormon,medium,midtown east,19:15,2,1
+507,Averell,indian,cheap,midtown,6:34,4,1
+508,Jasper,canadian,medium,hudson yards,19:29,4,1
+509,Donal,chinese,expensive,sutton place,19:33,0,0
+510,Ulrick,tahitian,expensive,little brazil,13:13,4,1
+511,Jeana,spanish,expensive,times square,7:48,0,0
+512,Gray,brazillian,expensive,rockefeller center,22:53,0,0
+513,Porty,japanese,cheap,midtown west,12:49,3,0
+514,Keenan,nigerian,medium,midtown west,17:25,1,1
+515,Lauren,tahitian,expensive,little brazil,17:26,4,0
+516,Meade,scottish,cheap,midtown,20:35,0,0
+517,Farand,german,cheap,hell's kitchen,4:07,5,0
+518,Debee,japanese,expensive,tenderloin,22:44,0,0
+519,Gelya,cuban,cheap,tudor city,22:16,4,0
+520,Arvy,american,expensive,times square,22:29,3,1
+521,Ulberto,portuguese,cheap,theater district,15:02,2,0
+522,Marin,turkish,expensive,hudson yards,22:59,1,1
+523,Homere,thai,medium,tudor city,8:00,4,0
+524,Gussie,mormon,cheap,turtle bay,20:29,0,0
+525,Nobie,jewish,expensive,murray hill,11:31,5,1
+526,Winna,scottish,expensive,tudor city,19:39,3,0
+527,Denna,turkish,medium,murray hill,22:48,2,1
+528,Alard,british,medium,murray hill,21:18,4,0
+529,Ivan,spanish,expensive,times square,16:49,3,1
+530,Iona,tahitian,medium,tudor city,11:07,2,0
+531,Marysa,irish,medium,theater district,0:24,5,0
+532,Zed,peruvian,expensive,hudson yards,18:57,5,0
+533,Myrlene,welsh,cheap,tenderloin,22:57,5,1
+534,Aggie,french,medium,madison square,2:02,5,0
+535,Rona,korean,medium,tenderloin,17:35,3,0
+536,Judie,tahitian,cheap,garment district,15:18,3,0
+537,Jedd,scottish,cheap,koreatown,22:51,3,0
+538,Karena,polish,medium,turtle bay,8:00,4,0
+539,Chrystel,belgian,medium,little brazil,7:58,1,1
+540,Andreana,american,cheap,herald square,21:30,4,1
+541,Veronike,savaldorian,medium,hell's kitchen,5:38,5,1
+542,Aaron,swedish,medium,theater district,8:19,4,0
+543,Charo,cuban,expensive,hudson yards,4:08,2,0
+544,Silvester,haitian,cheap,midtown,5:59,2,1
+545,Jenny,spanish,cheap,tenderloin,4:19,4,0
+546,Lilli,scottish,expensive,midtown west,19:10,5,1
+547,Benedict,tibetan,medium,theater district,19:03,5,0
+548,Mureil,savaldorian,expensive,garment district,12:02,4,0
+549,Winne,korean,expensive,columbus circle,16:21,5,0
+550,Tiebout,savaldorian,cheap,rockefeller center,11:15,2,1
+551,Wenda,swedish,expensive,little brazil,23:31,1,1
+552,Raviv,japanese,medium,theater district,20:21,3,0
+553,Colene,cuban,cheap,turtle bay,11:03,4,1
+554,Evanne,russian,medium,murray hill,21:57,1,0
+555,Loralee,welsh,expensive,midtown west,15:09,2,0
+556,Rodd,spanish,medium,madison square,0:06,1,1
+557,Tamarah,thai,cheap,garment district,5:13,1,0
+558,Corette,tibetan,expensive,tudor city,17:45,4,1
+559,Joella,savaldorian,cheap,midtown,0:39,2,0
+560,Kaine,chinese,expensive,turtle bay,19:34,3,1
+561,Swen,swedish,expensive,koreatown,5:32,0,1
+562,Arte,portuguese,cheap,midtown east,20:44,5,1
+563,Anette,portuguese,expensive,murray hill,9:14,5,0
+564,Frederic,japanese,medium,hell's kitchen,15:43,3,0
+565,Nicolai,irish,cheap,theater district,14:18,2,0
+566,Jillene,cuban,medium,times square,20:48,3,1
+567,Humbert,jewish,cheap,turtle bay,6:36,0,1
+568,Ajay,nigerian,medium,madison square,21:34,0,1
+569,Cari,jewish,cheap,hell's kitchen,6:18,3,0
+570,Oswell,mormon,medium,theater district,1:51,2,1
+571,Barron,thai,medium,hudson yards,11:46,5,0
+572,Alexio,indian,cheap,rockefeller center,3:52,5,0
+573,Emanuele,mexican,expensive,herald square,5:58,2,1
+574,Kristel,irish,expensive,columbus circle,15:34,2,0
+575,Ann,cajun,expensive,madison square,19:40,1,1
+576,Tomasine,cajun,cheap,turtle bay,18:01,4,1
+577,Waldemar,welsh,expensive,midtown west,14:00,2,1
+578,Bab,spanish,cheap,midtown west,10:36,2,1
+579,Teresita,nigerian,medium,rockefeller center,12:52,1,1
+580,Nealy,turkish,cheap,columbus circle,19:27,0,0
+581,Eloise,jewish,expensive,theater district,23:36,0,0
+582,Sarene,japanese,cheap,midtown,12:53,2,1
+583,Ruth,belgian,medium,madison square,3:17,1,1
+584,Justinian,scottish,cheap,sutton place,0:29,0,1
+585,Mitch,mormon,expensive,tenderloin,1:15,2,1
+586,Estelle,american,cheap,times square,16:38,3,0
+587,Daisey,haitian,expensive,midtown west,4:15,2,0
+588,Tiena,japanese,cheap,midtown west,10:31,3,1
+589,Lew,peruvian,cheap,murray hill,19:43,2,1
+590,Artair,swedish,expensive,herald square,6:52,2,0
+591,Lexi,mormon,expensive,theater district,23:08,4,1
+592,Riva,welsh,medium,diamond district,12:01,3,1
+593,Aubry,mexican,expensive,times square,20:11,5,1
+594,Brandea,thai,medium,little brazil,20:16,3,1
+595,Ora,peruvian,cheap,herald square,18:50,5,0
+596,Pietra,hawaiian,cheap,rockefeller center,1:24,4,1
+597,Feodor,turkish,expensive,herald square,11:30,5,0
+598,Tye,algerian,expensive,koreatown,6:07,2,0
+599,Dorelia,korean,expensive,hudson yards,1:32,1,0
+600,Blake,french,expensive,theater district,22:10,4,1
+601,Roderic,libyan,expensive,theater district,11:28,2,1
+602,Lazare,american,expensive,diamond district,3:04,3,1
+603,Andra,cuban,expensive,rockefeller center,0:43,5,0
+604,Heall,korean,medium,turtle bay,12:18,2,0
+605,Honey,jewish,cheap,diamond district,10:31,1,1
+606,Loree,latvian,cheap,hudson yards,16:06,1,1
+607,Buddy,kenyan,expensive,turtle bay,13:07,3,0
+608,Eleanore,scottish,expensive,diamond district,19:15,2,1
+609,Lek,thai,cheap,hudson yards,5:19,5,1
+610,Kip,thai,medium,sutton place,6:39,0,1
+611,Dawn,german,cheap,turtle bay,9:28,1,0
+612,Benito,jewish,expensive,herald square,21:45,5,0
+613,Ulrica,french,cheap,columbus circle,11:21,2,1
+614,Paton,american,medium,rockefeller center,2:10,0,1
+615,Osborne,scottish,expensive,turtle bay,18:44,0,0
+616,Hermia,british,expensive,midtown,13:22,4,1
+617,Tilda,irish,cheap,hell's kitchen,1:41,1,1
+618,Stanley,haitian,cheap,midtown east,10:00,0,1
+619,Duffy,british,medium,rockefeller center,6:28,2,1
+620,Gerald,welsh,cheap,midtown east,7:29,5,1
+621,Darwin,mormon,medium,hudson yards,9:31,5,1
+622,Doloritas,american,expensive,koreatown,1:37,5,0
+623,Gwyn,swedish,cheap,midtown,7:59,2,1
+624,Gill,libyan,expensive,hell's kitchen,21:19,4,1
+625,Micaela,russian,cheap,little brazil,20:05,5,0
+626,Hali,portuguese,expensive,midtown west,7:03,4,1
+627,Ramon,scottish,cheap,koreatown,13:26,0,1
+628,Hunt,cajun,expensive,hell's kitchen,19:51,1,1
+629,Marlo,turkish,cheap,herald square,21:23,0,1
+630,Kerwinn,savaldorian,expensive,midtown east,21:38,2,1
+631,Prent,nigerian,expensive,herald square,16:21,5,0
+632,Nicolai,german,expensive,diamond district,3:20,0,1
+633,Wilbert,thai,cheap,diamond district,16:38,5,0
+634,Gustavo,french,medium,midtown east,6:20,4,1
+635,Addy,latvian,expensive,tudor city,14:34,0,1
+636,Allen,jewish,medium,turtle bay,16:10,5,1
+637,Georgena,tahitian,medium,midtown,15:43,5,1
+638,Robby,libyan,medium,columbus circle,7:51,2,1
+639,Mattheus,french,medium,turtle bay,0:01,4,1
+640,Valaree,russian,cheap,herald square,10:35,5,1
+641,Melisande,belgian,medium,garment district,2:43,4,1
+642,Catherine,thai,medium,hell's kitchen,22:56,2,0
+643,Kory,cuban,expensive,diamond district,20:12,2,1
+644,Bordy,american,cheap,turtle bay,14:23,3,1
+645,Karita,libyan,cheap,hell's kitchen,13:52,2,1
+646,Rebecca,cajun,cheap,murray hill,9:07,1,1
+647,Paton,french,expensive,garment district,13:13,3,1
+648,Lucretia,spanish,medium,midtown west,8:47,0,0
+649,Alf,thai,expensive,koreatown,20:40,2,0
+650,Elwood,brazillian,medium,midtown west,8:28,3,1
+651,Jorrie,french,medium,tenderloin,7:31,1,0
+652,Sheba,egyptian,expensive,koreatown,4:09,3,1
+653,Lowell,haitian,medium,hell's kitchen,21:53,2,0
+654,Ida,spanish,cheap,murray hill,21:41,1,0
+655,Daniel,french,cheap,hudson yards,4:54,5,0
+656,Herbert,jewish,medium,tenderloin,21:37,5,0
+657,Chip,japanese,cheap,madison square,5:29,2,1
+658,Arabela,french,expensive,tenderloin,18:13,0,1
+659,Maximilianus,belgian,medium,diamond district,4:30,5,1
+660,Carlene,korean,expensive,tenderloin,6:29,1,1
+661,Sissie,portuguese,medium,sutton place,12:58,1,0
+662,Karina,belgian,medium,midtown west,13:17,4,1
+663,Cyrille,welsh,medium,hell's kitchen,16:42,3,0
+664,Greer,cajun,expensive,tudor city,21:15,1,0
+665,Madelyn,brazillian,cheap,theater district,14:39,2,0
+666,Nita,mexican,cheap,hell's kitchen,22:52,0,0
+667,Pearle,cajun,cheap,midtown west,10:39,0,0
+668,Chris,german,cheap,columbus circle,13:52,1,0
+669,Jay,savaldorian,medium,koreatown,5:31,4,0
+670,Finlay,cuban,cheap,garment district,16:20,0,0
+671,Sonny,kenyan,cheap,sutton place,22:16,2,0
+672,Jobye,scottish,medium,rockefeller center,12:07,1,1
+673,Joshia,japanese,expensive,tudor city,19:08,4,1
+674,Major,kenyan,cheap,midtown east,12:16,4,1
+675,Gail,korean,expensive,turtle bay,13:21,5,1
+676,Paco,kenyan,expensive,tenderloin,15:35,1,1
+677,Willem,italian,medium,midtown,2:49,2,0
+678,Edin,cajun,expensive,hell's kitchen,22:53,2,0
+679,Rafferty,savaldorian,cheap,tenderloin,21:32,4,0
+680,Tyne,egyptian,medium,times square,17:54,5,1
+681,Bank,tahitian,medium,theater district,3:47,1,1
+682,Norri,tahitian,medium,garment district,21:31,5,0
+683,Pollyanna,thai,expensive,midtown west,0:11,3,0
+684,Jonas,irish,cheap,murray hill,16:06,4,0
+685,Mandel,belgian,cheap,sutton place,7:21,1,0
+686,Matthiew,russian,cheap,tenderloin,4:14,1,1
+687,Josey,algerian,cheap,little brazil,4:05,4,1
+688,Lisle,italian,cheap,columbus circle,1:11,1,0
+689,Mill,indian,medium,tenderloin,3:46,4,1
+690,Celeste,mexican,cheap,theater district,10:37,2,1
+691,Gunner,swedish,expensive,diamond district,1:36,2,0
+692,Phaedra,portuguese,cheap,midtown west,6:38,5,1
+693,Norene,belgian,cheap,little brazil,17:36,2,0
+694,Quentin,jewish,medium,turtle bay,3:30,0,1
+695,Chase,algerian,expensive,theater district,21:20,2,1
+696,Jacob,welsh,expensive,herald square,13:55,2,1
+697,Gerome,polish,expensive,columbus circle,12:14,1,1
+698,Damaris,chinese,cheap,midtown west,13:54,4,1
+699,Nicol,french,cheap,midtown east,22:56,2,0
+700,Faye,latvian,cheap,theater district,7:58,2,0
+701,Dominique,haitian,expensive,hudson yards,9:07,1,0
+702,Daune,british,cheap,rockefeller center,20:15,3,1
+703,Maudie,savaldorian,expensive,midtown west,12:04,2,1
+704,Benjie,american,expensive,little brazil,7:18,1,0
+705,Packston,brazillian,cheap,little brazil,16:45,1,0
+706,Dora,hawaiian,medium,theater district,10:37,2,0
+707,Joceline,tahitian,cheap,columbus circle,9:24,0,0
+708,Reamonn,welsh,expensive,midtown,22:56,5,0
+709,Garrik,russian,medium,midtown west,4:13,3,0
+710,Yolanda,portuguese,cheap,garment district,2:52,0,1
+711,Serene,peruvian,expensive,koreatown,22:36,2,0
+712,Cherie,thai,cheap,turtle bay,20:22,4,1
+713,Korney,turkish,cheap,midtown east,2:17,3,0
+714,Elisha,egyptian,expensive,little brazil,0:59,0,0
+715,Vernice,algerian,medium,midtown east,19:56,0,0
+716,Margo,kenyan,medium,koreatown,15:45,3,0
+717,Rhoda,chinese,cheap,madison square,14:47,2,1
+718,Cassey,algerian,cheap,murray hill,17:56,1,1
+719,Kordula,japanese,cheap,hudson yards,23:17,0,1
+720,Hestia,nigerian,medium,murray hill,21:09,0,1
+721,Sharla,irish,expensive,columbus circle,17:00,4,1
+722,Gardner,nigerian,medium,diamond district,2:29,4,1
+723,Albrecht,savaldorian,cheap,rockefeller center,14:00,5,1
+724,Merrily,belgian,cheap,columbus circle,18:06,4,1
+725,Rae,canadian,cheap,tenderloin,10:03,1,1
+726,Carmelita,scottish,expensive,rockefeller center,1:17,2,1
+727,Adrian,spanish,medium,herald square,11:15,4,1
+728,Tedi,welsh,cheap,theater district,22:02,2,1
+729,Herb,cuban,cheap,hell's kitchen,4:33,5,0
+730,Tomasine,thai,medium,diamond district,22:45,1,1
+731,Idelle,belgian,medium,little brazil,3:17,2,0
+732,Rennie,peruvian,medium,tudor city,7:15,5,1
+733,Ginnie,latvian,medium,madison square,21:42,5,1
+734,Arty,mormon,cheap,herald square,9:02,3,1
+735,Odelle,mexican,medium,madison square,9:30,3,1
+736,Judy,nigerian,medium,theater district,12:31,5,1
+737,Moselle,indian,medium,tudor city,22:43,2,1
+738,Lonny,libyan,expensive,madison square,8:07,1,0
+739,Kendre,egyptian,medium,hudson yards,16:58,1,1
+740,Jilleen,spanish,expensive,hudson yards,19:43,4,0
+741,Roxine,hawaiian,cheap,rockefeller center,17:59,2,1
+742,Olympie,cuban,cheap,midtown west,4:55,1,1
+743,Yorgos,german,medium,madison square,9:28,1,0
+744,Norbert,peruvian,cheap,herald square,0:39,2,0
+745,Andrej,chinese,expensive,diamond district,0:04,1,0
+746,Stesha,british,medium,tenderloin,12:41,4,0
+747,Filmore,portuguese,medium,columbus circle,13:45,2,1
+748,Antonietta,nigerian,cheap,midtown west,17:00,5,0
+749,Dillon,libyan,medium,koreatown,14:44,0,0
+750,Isa,latvian,cheap,diamond district,19:53,4,1
+751,Viv,savaldorian,medium,midtown west,15:08,5,1
+752,Farrah,spanish,cheap,times square,19:55,3,1
+753,Caldwell,hawaiian,medium,hudson yards,3:13,5,1
+754,Walton,latvian,cheap,times square,20:24,4,0
+755,Orella,turkish,expensive,columbus circle,18:03,4,1
+756,Priscilla,peruvian,medium,diamond district,10:27,5,0
+757,Knox,thai,cheap,sutton place,0:53,1,1
+758,Ricard,indian,medium,diamond district,6:58,2,1
+759,Debby,japanese,medium,times square,1:06,3,0
+760,Jessica,german,cheap,hudson yards,22:01,3,1
+761,Amaleta,japanese,cheap,turtle bay,18:14,5,1
+762,Hestia,portuguese,cheap,sutton place,18:48,2,0
+763,Carroll,canadian,cheap,garment district,11:17,1,1
+764,Bourke,korean,cheap,times square,22:24,1,0
+765,Walden,nigerian,medium,midtown,14:29,0,1
+766,Rayner,cajun,expensive,columbus circle,18:35,0,0
+767,Demeter,cajun,cheap,midtown,5:40,1,0
+768,Binnie,polish,cheap,diamond district,18:20,4,1
+769,Keelia,british,expensive,little brazil,18:42,0,1
+770,Griselda,libyan,expensive,hell's kitchen,12:20,1,1
+771,Valentina,greek,expensive,murray hill,1:13,2,0
+772,Robbie,scottish,medium,times square,3:20,1,1
+773,Billy,cajun,expensive,diamond district,13:02,4,1
+774,Nichole,american,medium,midtown east,0:27,2,0
+775,Zacharie,kenyan,medium,hell's kitchen,7:01,2,0
+776,Heinrick,hawaiian,medium,koreatown,15:52,0,0
+777,Rebeca,russian,medium,garment district,10:02,0,0
+778,Aymer,tibetan,cheap,tenderloin,17:09,1,0
+779,Nissie,welsh,expensive,turtle bay,2:19,3,0
+780,Elysee,japanese,medium,garment district,23:21,5,1
+781,Madge,tibetan,medium,midtown east,22:30,3,1
+782,Ursala,tibetan,expensive,turtle bay,8:00,1,0
+783,Aeriell,korean,medium,hudson yards,12:17,1,1
+784,Joella,french,cheap,diamond district,2:46,5,0
+785,Lavina,chinese,expensive,tudor city,20:03,2,1
+786,Niles,kenyan,expensive,murray hill,2:13,0,0
+787,Lindsay,belgian,cheap,times square,0:00,4,1
+788,Dasi,peruvian,medium,midtown,8:55,4,1
+789,Garrot,canadian,expensive,murray hill,21:21,4,0
+790,Bordie,haitian,cheap,murray hill,14:40,5,1
+791,Brady,tibetan,medium,sutton place,16:04,5,1
+792,Siegfried,polish,medium,tudor city,5:34,5,0
+793,Iolande,korean,medium,sutton place,0:22,1,0
+794,Colleen,swedish,cheap,hudson yards,5:51,2,1
+795,Esme,spanish,expensive,herald square,15:03,2,0
+796,Lani,egyptian,medium,hudson yards,11:43,2,0
+797,Herb,savaldorian,expensive,little brazil,6:32,3,0
+798,Tally,algerian,cheap,koreatown,8:11,5,0
+799,Jaye,swedish,cheap,midtown west,0:04,5,1
+800,Serena,polish,expensive,hell's kitchen,4:38,1,0
+801,Darryl,italian,expensive,midtown,23:04,2,1
+802,Gabriell,algerian,cheap,turtle bay,18:40,5,0
+803,Mohammed,russian,expensive,murray hill,7:09,4,1
+804,Paten,canadian,cheap,murray hill,6:01,3,1
+805,Consuelo,italian,expensive,murray hill,16:27,3,1
+806,Clemmy,american,cheap,tenderloin,4:09,4,1
+807,Neall,chinese,cheap,turtle bay,3:12,3,1
+808,Alyssa,thai,cheap,midtown west,11:07,2,0
+809,Isaak,portuguese,medium,koreatown,17:47,1,0
+810,Carolynn,nigerian,medium,turtle bay,5:20,0,0
+811,Aveline,scottish,medium,tudor city,0:03,0,1
+812,Hamish,irish,medium,midtown east,2:36,5,1
+813,Huey,japanese,medium,tenderloin,15:17,1,1
+814,Teddie,haitian,expensive,midtown east,8:55,1,1
+815,Carolan,nigerian,expensive,garment district,21:19,5,0
+816,Demetria,brazillian,expensive,times square,5:37,1,0
+817,Nedi,portuguese,medium,theater district,22:28,4,0
+818,Bendite,scottish,expensive,theater district,13:10,5,0
+819,Bethany,french,cheap,murray hill,10:07,4,1
+820,Gail,savaldorian,medium,koreatown,7:28,3,1
+821,Queenie,cuban,expensive,hell's kitchen,5:49,0,1
+822,Bernadene,chinese,medium,hudson yards,20:00,5,0
+823,Joellyn,indian,cheap,midtown,13:56,3,0
+824,Luz,jewish,expensive,times square,15:50,2,0
+825,Garrick,egyptian,expensive,columbus circle,23:07,0,0
+826,Shaina,cuban,cheap,midtown west,13:36,5,1
+827,Douglass,korean,expensive,herald square,20:40,3,0
+828,Essie,greek,cheap,garment district,18:56,0,0
+829,Carol,polish,cheap,turtle bay,21:13,5,0
+830,Olenolin,kenyan,expensive,diamond district,9:52,3,0
+831,Barney,irish,medium,turtle bay,2:36,1,0
+832,Maje,hawaiian,cheap,garment district,15:07,3,0
+833,Madalena,mexican,cheap,tenderloin,12:50,2,0
+834,Karmen,russian,medium,times square,10:31,1,0
+835,Lucho,mormon,expensive,midtown,16:00,0,0
+836,Randy,chinese,medium,columbus circle,20:16,0,0
+837,Adrianna,british,medium,herald square,0:02,2,1
+838,Maryellen,egyptian,medium,turtle bay,15:22,2,1
+839,Suzanne,haitian,medium,koreatown,4:46,5,1
+840,Gawain,mormon,expensive,koreatown,13:53,0,1
+841,Giustina,belgian,cheap,turtle bay,17:44,3,1
+842,Lay,turkish,medium,midtown,2:33,5,0
+843,Doralyn,latvian,expensive,theater district,5:14,3,0
+844,Julio,libyan,cheap,tenderloin,2:18,0,0
+845,Korey,french,expensive,hudson yards,3:53,5,0
+846,Erich,japanese,medium,midtown,12:09,0,0
+847,Matthus,scottish,cheap,madison square,15:01,2,0
+848,Avigdor,savaldorian,expensive,hell's kitchen,23:24,0,0
+849,Augustine,swedish,expensive,garment district,18:33,1,0
+850,Eve,peruvian,cheap,madison square,7:56,2,1
+851,Collin,cuban,medium,midtown east,7:16,1,1
+852,Alikee,tibetan,cheap,times square,14:15,1,0
+853,Gil,haitian,expensive,sutton place,2:57,2,0
+854,Gwyn,cajun,expensive,theater district,8:10,0,0
+855,Albie,korean,medium,murray hill,14:04,4,0
+856,Dorotea,american,expensive,midtown east,1:05,1,1
+857,Stevy,cuban,expensive,herald square,5:53,3,1
+858,Michael,portuguese,expensive,madison square,22:40,5,0
+859,Jacenta,french,medium,columbus circle,0:51,1,0
+860,Stacia,savaldorian,cheap,sutton place,10:01,5,1
+861,Malissia,cajun,cheap,herald square,19:02,3,1
+862,Staffard,belgian,medium,rockefeller center,14:26,5,1
+863,Orsola,turkish,cheap,hudson yards,11:29,2,0
+864,Hilarius,hawaiian,medium,sutton place,5:11,4,1
+865,Diego,latvian,cheap,midtown,23:10,0,1
+866,Brinna,haitian,cheap,little brazil,19:56,0,0
+867,Gasparo,jewish,expensive,tudor city,2:16,5,1
+868,Karon,libyan,cheap,columbus circle,19:47,5,1
+869,Clemmy,nigerian,medium,columbus circle,3:38,3,1
+870,Stefano,haitian,expensive,madison square,10:13,0,1
+871,Lief,german,medium,midtown west,14:24,2,1
+872,Paton,spanish,cheap,midtown,10:54,1,1
+873,Sayre,korean,cheap,turtle bay,2:41,2,1
+874,Johnath,thai,expensive,little brazil,13:58,3,1
+875,Myrah,british,cheap,midtown west,17:41,0,0
+876,Maurise,german,medium,sutton place,0:04,1,0
+877,Basile,libyan,cheap,tenderloin,14:21,4,0
+878,Mick,tibetan,expensive,koreatown,10:36,4,0
+879,Monro,spanish,medium,tudor city,2:04,0,1
+880,Rourke,jewish,expensive,theater district,17:41,4,0
+881,Wally,korean,cheap,madison square,3:04,4,0
+882,Ezri,mexican,medium,murray hill,6:33,5,0
+883,Morissa,kenyan,medium,herald square,20:38,5,0
+884,North,german,medium,koreatown,20:03,4,1
+885,Sherye,nigerian,cheap,rockefeller center,16:03,0,1
+886,Sutherlan,mexican,expensive,madison square,20:18,2,0
+887,Erinn,mormon,medium,koreatown,20:34,1,1
+888,Erinn,hawaiian,cheap,tudor city,8:54,3,0
+889,Niki,canadian,expensive,koreatown,15:07,3,1
+890,Troy,turkish,medium,midtown east,18:29,1,1
+891,Frederigo,korean,cheap,columbus circle,6:43,5,1
+892,Griffin,italian,cheap,hell's kitchen,23:54,3,0
+893,Reynold,egyptian,expensive,garment district,14:31,0,0
+894,Langston,mexican,expensive,midtown west,12:08,2,0
+895,Hillel,brazillian,expensive,turtle bay,16:49,0,0
+896,Harlene,libyan,medium,herald square,2:39,4,0
+897,Cleavland,mexican,expensive,turtle bay,21:14,1,1
+898,Dallas,mormon,expensive,little brazil,5:34,3,1
+899,Justine,brazillian,expensive,garment district,13:33,0,1
+900,Vitoria,korean,expensive,tudor city,23:15,4,0
+901,Pen,nigerian,medium,theater district,9:53,4,0
+902,Sheela,italian,medium,midtown west,23:42,0,0
+903,Tully,mexican,medium,sutton place,10:31,4,0
+904,Cozmo,swedish,cheap,koreatown,0:07,3,0
+905,Axel,swedish,expensive,herald square,22:58,1,1
+906,Ellen,japanese,expensive,turtle bay,3:43,4,0
+907,Joni,chinese,cheap,midtown,9:04,5,1
+908,Geno,british,medium,midtown east,10:35,4,0
+909,Lurleen,tibetan,expensive,murray hill,17:06,1,0
+910,Emile,tibetan,medium,times square,22:39,0,0
+911,Jonas,jewish,cheap,midtown west,19:43,5,1
+912,Winston,korean,medium,madison square,0:38,4,0
+913,Marylynne,haitian,expensive,theater district,1:58,3,0
+914,Harbert,russian,expensive,koreatown,1:34,3,0
+915,Nert,nigerian,expensive,rockefeller center,15:06,0,0
+916,Solomon,tibetan,expensive,times square,10:40,4,1
+917,Isabel,kenyan,cheap,turtle bay,1:50,1,0
+918,Zebulen,indian,medium,tenderloin,9:49,5,1
+919,Christabel,libyan,medium,midtown,17:57,2,0
+920,Evelyn,egyptian,expensive,garment district,20:41,5,1
+921,Hendrick,belgian,medium,midtown west,16:05,5,0
+922,Chrissie,italian,cheap,tenderloin,1:53,3,1
+923,Berkie,tahitian,expensive,midtown,21:07,0,0
+924,Job,british,cheap,hell's kitchen,15:19,0,0
+925,Consuelo,irish,expensive,sutton place,9:09,1,1
+926,Hakeem,jewish,expensive,rockefeller center,21:14,2,0
+927,Cordelie,canadian,cheap,hudson yards,5:48,5,0
+928,Zola,american,medium,midtown west,19:58,1,1
+929,Caye,chinese,medium,sutton place,10:05,2,0
+930,Suzi,portuguese,expensive,theater district,10:42,4,0
+931,Manfred,hawaiian,expensive,tudor city,19:55,4,1
+932,Stacee,russian,expensive,garment district,14:03,5,0
+933,Pinchas,egyptian,expensive,rockefeller center,22:19,1,1
+934,Franny,mexican,medium,times square,5:07,1,1
+935,Hewitt,turkish,expensive,rockefeller center,1:48,4,1
+936,Lalo,kenyan,expensive,garment district,8:59,0,0
+937,Alwin,brazillian,expensive,theater district,1:00,5,0
+938,Teresa,savaldorian,expensive,midtown,9:38,0,1
+939,Lucille,scottish,expensive,midtown east,23:34,4,0
+940,Fabiano,greek,medium,midtown west,9:50,5,1
+941,Christiana,cuban,medium,midtown,0:26,2,1
+942,Luise,swedish,cheap,midtown,14:49,1,1
+943,Jaime,italian,medium,midtown,19:39,5,1
+944,Alys,jewish,cheap,murray hill,13:55,3,1
+945,Rozelle,tibetan,expensive,midtown,6:41,2,1
+946,Mufi,italian,cheap,little brazil,1:28,2,1
+947,Flossi,italian,expensive,tenderloin,5:03,2,1
+948,Lyn,turkish,expensive,diamond district,0:40,3,1
+949,Tiffie,japanese,medium,garment district,4:17,5,0
+950,Gwenore,cajun,medium,sutton place,11:28,3,0
+951,Annette,thai,medium,columbus circle,4:15,0,0
+952,Bogart,french,cheap,times square,11:34,4,1
+953,Olav,thai,cheap,hell's kitchen,4:35,0,1
+954,Margaux,nigerian,cheap,sutton place,20:32,0,1
+955,Annice,greek,cheap,midtown west,0:20,2,1
+956,Donall,american,expensive,hudson yards,11:31,3,0
+957,Reube,tibetan,medium,turtle bay,15:25,3,1
+958,Rita,polish,medium,midtown west,4:34,2,0
+959,Jasmina,tibetan,expensive,midtown,7:38,5,1
+960,Avril,british,medium,columbus circle,21:36,4,1
+961,Chrystel,libyan,medium,rockefeller center,9:57,1,0
+962,Carolann,peruvian,cheap,little brazil,22:45,0,0
+963,Gilberto,peruvian,expensive,times square,20:02,0,1
+964,Alva,indian,medium,midtown west,16:08,1,0
+965,Antin,polish,cheap,hell's kitchen,4:36,1,0
+966,Constantine,turkish,cheap,midtown,19:04,5,1
+967,Garwood,brazillian,expensive,hudson yards,1:13,4,0
+968,Haleigh,chinese,medium,hell's kitchen,19:10,4,1
+969,Elicia,japanese,expensive,columbus circle,3:15,1,0
+970,Jacquelyn,jewish,cheap,hudson yards,3:08,1,1
+971,Ruddy,indian,expensive,diamond district,16:57,0,0
+972,Shelia,thai,cheap,theater district,2:27,5,0
+973,Westbrooke,polish,cheap,tudor city,20:43,1,0
+974,Richie,canadian,expensive,theater district,12:33,4,0
+975,Gerianna,cuban,expensive,columbus circle,9:44,2,1
+976,Lawry,peruvian,medium,hell's kitchen,13:01,0,1
+977,Mimi,spanish,cheap,hudson yards,7:20,1,0
+978,Caldwell,spanish,cheap,tenderloin,12:45,1,0
+979,Codi,kenyan,expensive,tudor city,22:32,2,1
+980,Courtney,kenyan,expensive,tenderloin,8:30,1,0
+981,Barnard,algerian,expensive,madison square,2:33,2,0
+982,Gustav,russian,medium,tudor city,12:45,3,0
+983,Abbott,libyan,cheap,rockefeller center,2:21,3,0
+984,Cordelie,indian,cheap,tudor city,13:34,3,1
+985,Tye,cuban,cheap,midtown,2:23,0,1
+986,Carroll,russian,cheap,columbus circle,20:28,1,0
+987,Celestia,tahitian,cheap,little brazil,7:48,2,0
+988,Sherye,german,expensive,columbus circle,12:48,4,1
+989,Gilbertine,kenyan,medium,little brazil,1:19,4,1
+990,Calley,greek,cheap,hell's kitchen,13:47,4,1
+991,Davita,peruvian,expensive,garment district,18:26,4,0
+992,Thurston,brazillian,cheap,times square,21:53,1,1
+993,Gizela,portuguese,cheap,garment district,21:52,1,0
+994,Ardra,hawaiian,cheap,turtle bay,21:07,4,0
+995,Darline,brazillian,cheap,midtown west,15:38,2,1
+996,Alano,russian,cheap,times square,12:22,0,1
+997,Lalo,scottish,medium,rockefeller center,0:53,0,1
+998,Bonny,cajun,expensive,times square,14:43,4,0
+999,Finn,belgian,medium,hell's kitchen,0:22,3,1
+1000,Holden,welsh,medium,garment district,13:58,1,1
